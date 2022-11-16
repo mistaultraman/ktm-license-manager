@@ -1,0 +1,12 @@
+{
+    "bot_description": "KTM Academy",
+    "default_prefix": "!",
+    "developer_log_channel_id": 1042120483774136401,
+    "developers": {
+        "Techiez": 1036962948301729792
+    },
+    "maximum_unused_guild_licences": 100,
+    "support_channel_invite": "https://discord.gg/zE9fcUx2",
+    "top_gg_api_key": "",
+    "token": ""
+}
